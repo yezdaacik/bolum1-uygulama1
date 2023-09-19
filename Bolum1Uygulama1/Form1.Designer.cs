@@ -34,9 +34,9 @@
             // btnAd
             // 
             this.btnAd.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnAd.Location = new System.Drawing.Point(223, 145);
+            this.btnAd.Location = new System.Drawing.Point(38, 33);
             this.btnAd.Name = "btnAd";
-            this.btnAd.Size = new System.Drawing.Size(326, 144);
+            this.btnAd.Size = new System.Drawing.Size(724, 376);
             this.btnAd.TabIndex = 0;
             this.btnAd.Text = "Yezda Açık";
             this.btnAd.UseVisualStyleBackColor = true;
